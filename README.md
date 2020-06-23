@@ -31,6 +31,6 @@ Before using this script, make sure you already have all the items you want in y
 
 
 
-* **Once at the checkout page, the script will periodically refresh the browser and check for available time slots. If a timeslot is found, a beep noise will alert you and the script will stop running. You do not need to monitor the page, feel free to minimze it.**
+* **Once at the checkout page, the script will periodically refresh the browser and check for available time slots. If a timeslot is found, a beep noise will alert you and the script will stop running. You do not need to monitor the page, feel free to minimize it.**
 
 ![alt text](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert/blob/master/Whole%20Foods%20Checkout.png "checkout")
