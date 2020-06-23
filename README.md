@@ -25,8 +25,7 @@ Before using this script, make sure you already have all the items you want in y
 ![alt text](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert/blob/master/Alert.PNG "alert")
 
 * **Next, you will have 1 minute to login to your Amazon account and proceed to the checkout page** 
-</br>
-<\br>
+
 
 ![alt text](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert/blob/master/Whole%20Foods%20Login.png "login")
 
