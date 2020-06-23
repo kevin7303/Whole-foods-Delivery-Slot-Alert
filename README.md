@@ -20,11 +20,17 @@ Before using this script, make sure you already have all the items you want in y
 
 * After initiating the script, you will be redirected to the Amazon main landing page and an Alert will pop up. Make sure to click ok or the script will be paused
 
+
+
 ![alt text](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert/blob/master/Alert.PNG "Alert")
 
 * Next, you will have 1 minute to login to your Amazon account and proceed to the checkout page
 
+
+
 ![alt text](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert/blob/master/Whole%20Foods%20Login.png "Login Page")
+
+
 
 * Once at the checkout page, the script will periodically refresh the browser and check for available time slots. If a timeslot is found, a beep noise will alert you and the script will stop running. You do not need to monitor the page, feel free to minimze it.
 
